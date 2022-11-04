@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@trpc/server": "^10.0.0-rc.3",
+    "corestore": "^6.2.0",
+    "cuid": "^2.1.8",
+    "express": "^4.18.2",
+    "hyperbee": "^2.1.2",
+    "zod": "^3.19.1"
+  }
+}
